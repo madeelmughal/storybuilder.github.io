@@ -16,7 +16,7 @@ function Nav() {
   return (
     <nav className="nav--main" style={nav_main}>
       <h3 className="nav--logo" style={nav_logo}>
-        React Story Builder
+        Story Builder
       </h3>
     </nav>
   );
