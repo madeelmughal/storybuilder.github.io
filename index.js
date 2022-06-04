@@ -75,6 +75,7 @@ function Footer() {
         justifyContent: "space-between",
         alignItems: "center",
         padding: " 70px 120px",
+        marginTop : "200px"
       }}
     >
       <div>
